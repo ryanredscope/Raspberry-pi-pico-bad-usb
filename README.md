@@ -15,6 +15,7 @@ Now open Step 3 and drag all the files in to the lib folder.
 Now open Step 4 and drag all the files in the root directory (or main directory).
 
   ONLY IF YOU HAVE A PICO W
+  
 Now open Step 5 and drag the file secrets.py in the root directory (or main directory).
 
 Now if you have done all the steps you can create a payload.
