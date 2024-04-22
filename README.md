@@ -25,6 +25,6 @@ If you want to the change the payload.dd file you cant. Im still working on that
 
 (please note that my english is not great so sorry for that)
 
-Here are some links to pre-made payloads by hak5
+Here are some links to pre-made payloads by hak5.
 https://hak5.org/blogs/payloads/
 https://github.com/hak5/usbrubberducky-payloads/tree/master/payloads/library/exfiltration
