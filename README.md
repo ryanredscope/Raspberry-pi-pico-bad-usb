@@ -23,7 +23,7 @@ Please write it in ducky script and save it in the root directory (or main direc
 Now you can unplug it and its done. 
 If you want to the change the payload.dd file you cant. Im still working on that, but if you do want to change it please repeat all the steps.
 
-(please note that my english is not great so sorry for that)
+(please note that my english is not great so sorry for that.)
 
   Here are some links to pre-made payloads by hak5.
 https://hak5.org/blogs/payloads/ or
